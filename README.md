@@ -1,2 +1,2 @@
-# proy_sem_prog_movil
+# proySemProgMovil
 Proyecto semestral asignatura PGY4121-006V 
